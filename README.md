@@ -11,6 +11,7 @@ foundation of time series analytics and basic machine learning in TECH Stocks
 
 #### 2.1 Visualize plot 
 ##### i. Time series plot
+![Stocks price of four big TECH!](/images/TECH_STOCKS.png "big TECH")
 ##### ii . CandleStick plot
 ##### iii. Additive Decomposition
 ##### iv. Seasonality
@@ -34,6 +35,7 @@ foundation of time series analytics and basic machine learning in TECH Stocks
 ## III. Compare price_stocks TECH_companys (FB,AAPL, NFLX, GOOG)
 
 ### 1. Series plot
-
+![Stocks price of four big TECH!](/images/PREDICT_TECH_STOCK_ARIMA.PNG "big TECH")
 ### 2. Market that no COVID-19
+![Stocks price of four big TECH!](/images/ACCURATELY_ARIMA.PNG "big TECH")
 	ARIMA: accurate = 90.8%
